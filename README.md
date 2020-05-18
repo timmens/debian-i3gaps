@@ -1,6 +1,18 @@
 # debian-i3gaps
 
-## Aim of this project is to have a shell script that will transform clean install of Debian Stretch (netinst) into a fully working configured system.
+## Project goal
+
+Anxious of your machine breaking down since a complete software installation takes you ~1 month?
+Afraid of switching to new hardware for the same reasons? Fear no more! In this project I aim at
+providing flexible shell scripts which install a fully configured system on top of a fresh
+(Debian) linux installation.
+
+There will be two major installation options:
+
+- _Barebone_, which installs a minimal configured system (details about the software can be seen 
+below).
+- _Scientific_, which works on top of _Barebone_ and installs additional software which (I think)
+is useful for scientific programming with a heavy focus on Python.
 
 #### Screenshots:
 
